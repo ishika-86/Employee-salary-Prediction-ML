@@ -1,2 +1,2 @@
 # Employee-salary-Prediction-ML
-[View the notebook](your_notebook.ipynb)
+[View the notebook](employee-salary-prediction-Notebook.ipynb)
